@@ -63,7 +63,7 @@ Follow these instructions to set up the project locally.
 ### File Structure
 
 teacher-portal/
-├──auth/
+- ├──auth/
 │ └── login.php
 │ └── logout.php
 ├── config/
