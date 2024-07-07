@@ -62,22 +62,22 @@ Follow these instructions to set up the project locally.
 
 ### File Structure
 
-teacher-portal/
+- teacher-portal/
 - ├──auth/
-│ └── login.php
-│ └── logout.php
-├── config/
-│ └── config.php
-├── css/
-│ └── home.css
-│ └── styles.css
-├── database/
-│ └── tailwebs-teacher-portal.sql
-├── includes/
-│ ├── functions.php
-├── js/
-│ └── index.js
-├── module/student/
+- │ └── login.php
+- │ └── logout.php
+- ├── config/
+- │ └── config.php
+- ├── css/
+- │ └── home.css
+- │ └── styles.css
+- ├── database/
+- │ └── tailwebs-teacher-portal.sql
+- ├── includes/
+- | └── functions.php
+- ├── js/
+- │ └── index.js
+- ├── module/student/
 │ └── add_student.php
 │ └── delete_student.php
 │ └── edit_student.php
