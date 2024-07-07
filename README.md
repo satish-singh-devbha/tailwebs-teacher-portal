@@ -78,9 +78,9 @@ Follow these instructions to set up the project locally.
 - ├── js/
 - │ └── index.js
 - ├── module/student/
-│ └── add_student.php
-│ └── delete_student.php
-│ └── edit_student.php
-├── home.php
-├── index.php
-└── README.md
+- │ └── add_student.php
+- │ └── delete_student.php
+- │ └── edit_student.php
+- ├── home.php
+- ├── index.php
+- └── README.md
